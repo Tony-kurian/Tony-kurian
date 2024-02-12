@@ -1,0 +1,2638 @@
+{
+    "took": 6,
+    "timed_out": false,
+    "_shards": {
+      "total": 5,
+      "successful": 5,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 1,
+        "relation": "eq"
+      },
+      "max_score": 10.8688345,
+      "hits": [
+        {
+          "_index": "reindexed-v7-sefoiresultidx",
+          "_id": "cuYvg40BkGCyspR6sntz",
+          "_score": 10.8688345,
+          "_source": {
+            "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+            "document_name": "07252100.pdf",
+            "fields": [],
+            "data": [
+              {
+                "updated_on": "2024-02-07 10:49:17.907842",
+                "ranswer": [
+                  {
+                    "score": 0.9155908823013306,
+                    "ocr_score": 0.956,
+                    "box": {
+                      "W": 199,
+                      "X": 1100,
+                      "H": 29,
+                      "Y": 68
+                    },
+                    "text": "07-2521-00"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 91.55908823013306,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907821",
+                    "ranswer": [
+                      {
+                        "score": 0.9155908823013306,
+                        "ocr_score": 0.956,
+                        "box": {
+                          "W": 199,
+                          "X": 1100,
+                          "H": 29,
+                          "Y": 68
+                        },
+                        "text": "07-2521-00"
+                      }
+                    ],
+                    "score": 91.55908823013306,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.9155908823013306,
+                        "ocr_score": 0.956,
+                        "box": {
+                          "W": 199,
+                          "X": 1100,
+                          "H": 29,
+                          "Y": 68
+                        },
+                        "text": "07-2521-00"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.9155908823013306,
+                        "ocr_score": 0.956,
+                        "box": {
+                          "W": 199,
+                          "X": 1100,
+                          "H": 29,
+                          "Y": 68
+                        },
+                        "text": "07-2521-00"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907829",
+                    "ranswer": [
+                      {
+                        "score": 0.640736997127533,
+                        "ocr_score": 0.968,
+                        "box": {
+                          "W": 202,
+                          "X": 1389,
+                          "H": 29,
+                          "Y": 831
+                        },
+                        "text": "07-2521-00"
+                      }
+                    ],
+                    "score": 64.0736997127533,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.640736997127533,
+                        "ocr_score": 0.968,
+                        "box": {
+                          "W": 202,
+                          "X": 1389,
+                          "H": 29,
+                          "Y": 831
+                        },
+                        "text": "07-2521-00"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.640736997127533,
+                        "ocr_score": 0.968,
+                        "box": {
+                          "W": 202,
+                          "X": 1389,
+                          "H": 29,
+                          "Y": 831
+                        },
+                        "text": "07-2521-00"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907835",
+                    "ranswer": [
+                      {
+                        "score": 0.1539747267961502,
+                        "ocr_score": 0.928,
+                        "box": {
+                          "W": 117,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1041
+                        },
+                        "text": "129.15-"
+                      }
+                    ],
+                    "score": 15.39747267961502,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.1539747267961502,
+                        "ocr_score": 0.928,
+                        "box": {
+                          "W": 117,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1041
+                        },
+                        "text": "129.15-"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.1539747267961502,
+                        "ocr_score": 0.928,
+                        "box": {
+                          "W": 117,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1041
+                        },
+                        "text": "129.15-"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "account_number",
+                "answer": [
+                  {
+                    "score": 0.9155908823013306,
+                    "ocr_score": 0.956,
+                    "box": {
+                      "W": 199,
+                      "X": 1100,
+                      "H": 29,
+                      "Y": 68
+                    },
+                    "text": "07-2521-00"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.9155908823013306,
+                    "ocr_score": 0.956,
+                    "box": {
+                      "W": 199,
+                      "X": 1100,
+                      "H": 29,
+                      "Y": 68
+                    },
+                    "text": "07-2521-00"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907854",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907850",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "adjustment",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907875",
+                "ranswer": [
+                  {
+                    "score": 0.8324358463287354,
+                    "ocr_score": 0.997,
+                    "box": {
+                      "W": 126,
+                      "X": 1501,
+                      "H": 32,
+                      "Y": 71
+                    },
+                    "text": "$156.63"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 83.24358463287354,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907865",
+                    "ranswer": [
+                      {
+                        "score": 0.8324358463287354,
+                        "ocr_score": 0.997,
+                        "box": {
+                          "W": 126,
+                          "X": 1501,
+                          "H": 32,
+                          "Y": 71
+                        },
+                        "text": "$156.63"
+                      }
+                    ],
+                    "score": 83.24358463287354,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.8324358463287354,
+                        "ocr_score": 0.997,
+                        "box": {
+                          "W": 126,
+                          "X": 1501,
+                          "H": 32,
+                          "Y": 71
+                        },
+                        "text": "$156.63"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.8324358463287354,
+                        "ocr_score": 0.997,
+                        "box": {
+                          "W": 126,
+                          "X": 1501,
+                          "H": 32,
+                          "Y": 71
+                        },
+                        "text": "$156.63"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907868",
+                    "ranswer": [
+                      {
+                        "score": 0.583815336227417,
+                        "ocr_score": 0.969,
+                        "box": {
+                          "W": 102,
+                          "X": 1103,
+                          "H": 27,
+                          "Y": 1357
+                        },
+                        "text": "$156.63"
+                      }
+                    ],
+                    "score": 58.3815336227417,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.583815336227417,
+                        "ocr_score": 0.969,
+                        "box": {
+                          "W": 102,
+                          "X": 1103,
+                          "H": 27,
+                          "Y": 1357
+                        },
+                        "text": "$156.63"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.583815336227417,
+                        "ocr_score": 0.969,
+                        "box": {
+                          "W": 102,
+                          "X": 1103,
+                          "H": 27,
+                          "Y": 1357
+                        },
+                        "text": "$156.63"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907871",
+                    "ranswer": [
+                      {
+                        "score": 0.5013833045959473,
+                        "ocr_score": 0.986,
+                        "box": {
+                          "W": 117,
+                          "X": 1090,
+                          "H": 24,
+                          "Y": 1388
+                        },
+                        "text": "$172.30"
+                      }
+                    ],
+                    "score": 50.13833045959473,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.5013833045959473,
+                        "ocr_score": 0.986,
+                        "box": {
+                          "W": 117,
+                          "X": 1090,
+                          "H": 24,
+                          "Y": 1388
+                        },
+                        "text": "$172.30"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.5013833045959473,
+                        "ocr_score": 0.986,
+                        "box": {
+                          "W": 117,
+                          "X": 1090,
+                          "H": 24,
+                          "Y": 1388
+                        },
+                        "text": "$172.30"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "amount_due",
+                "answer": [
+                  {
+                    "score": 0.8324358463287354,
+                    "ocr_score": 0.997,
+                    "box": {
+                      "W": 126,
+                      "X": 1501,
+                      "H": 32,
+                      "Y": 71
+                    },
+                    "text": "$156.63"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.8324358463287354,
+                    "ocr_score": 0.997,
+                    "box": {
+                      "W": 126,
+                      "X": 1501,
+                      "H": 32,
+                      "Y": 71
+                    },
+                    "text": "$156.63"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907888",
+                "ranswer": [
+                  {
+                    "score": 0.6326760649681091,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 73,
+                      "X": 1137,
+                      "H": 24,
+                      "Y": 1112
+                    },
+                    "text": "$0.00"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 63.26760649681091,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907884",
+                    "ranswer": [
+                      {
+                        "score": 0.6326760649681091,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 73,
+                          "X": 1137,
+                          "H": 24,
+                          "Y": 1112
+                        },
+                        "text": "$0.00"
+                      }
+                    ],
+                    "score": 63.26760649681091,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.6326760649681091,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 73,
+                          "X": 1137,
+                          "H": 24,
+                          "Y": 1112
+                        },
+                        "text": "$0.00"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.6326760649681091,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 73,
+                          "X": 1137,
+                          "H": 24,
+                          "Y": 1112
+                        },
+                        "text": "$0.00"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "carry_forward_balance",
+                "answer": [
+                  {
+                    "score": 0.6326760649681091,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 73,
+                      "X": 1137,
+                      "H": 24,
+                      "Y": 1112
+                    },
+                    "text": "$0.00"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.6326760649681091,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 73,
+                      "X": 1137,
+                      "H": 24,
+                      "Y": 1112
+                    },
+                    "text": "$0.00"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907896",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907893",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "current_meter_reading",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907913",
+                "ranswer": [
+                  {
+                    "score": 0.8503158092498779,
+                    "ocr_score": 0.958,
+                    "box": {
+                      "W": 209,
+                      "X": 1115,
+                      "H": 29,
+                      "Y": 174
+                    },
+                    "text": "01/01/2024"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 85.0315809249878,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907906",
+                    "ranswer": [
+                      {
+                        "score": 0.8503158092498779,
+                        "ocr_score": 0.958,
+                        "box": {
+                          "W": 209,
+                          "X": 1115,
+                          "H": 29,
+                          "Y": 174
+                        },
+                        "text": "01/01/2024"
+                      }
+                    ],
+                    "score": 85.0315809249878,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.8503158092498779,
+                        "ocr_score": 0.958,
+                        "box": {
+                          "W": 209,
+                          "X": 1115,
+                          "H": 29,
+                          "Y": 174
+                        },
+                        "text": "01/01/2024"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.8503158092498779,
+                        "ocr_score": 0.958,
+                        "box": {
+                          "W": 209,
+                          "X": 1115,
+                          "H": 29,
+                          "Y": 174
+                        },
+                        "text": "01/01/2024"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907909",
+                    "ranswer": [
+                      {
+                        "score": 0.38686686754226685,
+                        "ocr_score": 0.97,
+                        "box": {
+                          "W": 189,
+                          "X": 1428,
+                          "H": 34,
+                          "Y": 939
+                        },
+                        "text": "01/01/2024"
+                      }
+                    ],
+                    "score": 38.686686754226685,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.38686686754226685,
+                        "ocr_score": 0.97,
+                        "box": {
+                          "W": 189,
+                          "X": 1428,
+                          "H": 34,
+                          "Y": 939
+                        },
+                        "text": "01/01/2024"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.38686686754226685,
+                        "ocr_score": 0.97,
+                        "box": {
+                          "W": 189,
+                          "X": 1428,
+                          "H": 34,
+                          "Y": 939
+                        },
+                        "text": "01/01/2024"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "due_date",
+                "answer": [
+                  {
+                    "score": 0.8503158092498779,
+                    "ocr_score": 0.958,
+                    "box": {
+                      "W": 209,
+                      "X": 1115,
+                      "H": 29,
+                      "Y": 174
+                    },
+                    "text": "01/01/2024"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.8503158092498779,
+                    "ocr_score": 0.958,
+                    "box": {
+                      "W": 209,
+                      "X": 1115,
+                      "H": 29,
+                      "Y": 174
+                    },
+                    "text": "01/01/2024"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907924",
+                "ranswer": [
+                  {
+                    "score": 0.9272190928459167,
+                    "ocr_score": 0.994,
+                    "box": {
+                      "W": 206,
+                      "X": 73,
+                      "H": 27,
+                      "Y": 939
+                    },
+                    "text": "10/30/2023"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 92.72190928459167,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907921",
+                    "ranswer": [
+                      {
+                        "score": 0.9272190928459167,
+                        "ocr_score": 0.994,
+                        "box": {
+                          "W": 206,
+                          "X": 73,
+                          "H": 27,
+                          "Y": 939
+                        },
+                        "text": "10/30/2023"
+                      }
+                    ],
+                    "score": 92.72190928459167,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.9272190928459167,
+                        "ocr_score": 0.994,
+                        "box": {
+                          "W": 206,
+                          "X": 73,
+                          "H": 27,
+                          "Y": 939
+                        },
+                        "text": "10/30/2023"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.9272190928459167,
+                        "ocr_score": 0.994,
+                        "box": {
+                          "W": 206,
+                          "X": 73,
+                          "H": 27,
+                          "Y": 939
+                        },
+                        "text": "10/30/2023"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "from_date",
+                "answer": [
+                  {
+                    "score": 0.9272190928459167,
+                    "ocr_score": 0.994,
+                    "box": {
+                      "W": 206,
+                      "X": 73,
+                      "H": 27,
+                      "Y": 939
+                    },
+                    "text": "10/30/2023"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.9272190928459167,
+                    "ocr_score": 0.994,
+                    "box": {
+                      "W": 206,
+                      "X": 73,
+                      "H": 27,
+                      "Y": 939
+                    },
+                    "text": "10/30/2023"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907932",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907929",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "meter_number",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907942",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907938",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "payment",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907951",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907948",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "penaltie",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907967",
+                "ranswer": [
+                  {
+                    "score": 0.13786613941192627,
+                    "ocr_score": 0.928,
+                    "box": {
+                      "W": 117,
+                      "X": 1110,
+                      "H": 27,
+                      "Y": 1041
+                    },
+                    "text": "129.15-"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 13.786613941192627,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907961",
+                    "ranswer": [
+                      {
+                        "score": 0.13786613941192627,
+                        "ocr_score": 0.928,
+                        "box": {
+                          "W": 117,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1041
+                        },
+                        "text": "129.15-"
+                      }
+                    ],
+                    "score": 13.786613941192627,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.13786613941192627,
+                        "ocr_score": 0.928,
+                        "box": {
+                          "W": 117,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1041
+                        },
+                        "text": "129.15-"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.13786613941192627,
+                        "ocr_score": 0.928,
+                        "box": {
+                          "W": 117,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1041
+                        },
+                        "text": "129.15-"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.907964",
+                    "ranswer": [
+                      {
+                        "score": 0.1326928287744522,
+                        "ocr_score": 0.954,
+                        "box": {
+                          "W": 100,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1007
+                        },
+                        "text": "129.15"
+                      }
+                    ],
+                    "score": 13.269282877445221,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.1326928287744522,
+                        "ocr_score": 0.954,
+                        "box": {
+                          "W": 100,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1007
+                        },
+                        "text": "129.15"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.1326928287744522,
+                        "ocr_score": 0.954,
+                        "box": {
+                          "W": 100,
+                          "X": 1110,
+                          "H": 27,
+                          "Y": 1007
+                        },
+                        "text": "129.15"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "previous_balance",
+                "answer": [
+                  {
+                    "score": 0.13786613941192627,
+                    "ocr_score": 0.928,
+                    "box": {
+                      "W": 117,
+                      "X": 1110,
+                      "H": 27,
+                      "Y": 1041
+                    },
+                    "text": "129.15-"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.13786613941192627,
+                    "ocr_score": 0.928,
+                    "box": {
+                      "W": 117,
+                      "X": 1110,
+                      "H": 27,
+                      "Y": 1041
+                    },
+                    "text": "129.15-"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907975",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907972",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "previous_meter_reading",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907983",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907980",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "service_end_date",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.907992",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.907988",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "service_start_date",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.908004",
+                "ranswer": [
+                  {
+                    "score": 0.8491448760032654,
+                    "ocr_score": 0.865,
+                    "box": {
+                      "W": 204,
+                      "X": 367,
+                      "H": 27,
+                      "Y": 941
+                    },
+                    "text": "11/28/2023"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 84.91448760032654,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908000",
+                    "ranswer": [
+                      {
+                        "score": 0.8491448760032654,
+                        "ocr_score": 0.865,
+                        "box": {
+                          "W": 204,
+                          "X": 367,
+                          "H": 27,
+                          "Y": 941
+                        },
+                        "text": "11/28/2023"
+                      }
+                    ],
+                    "score": 84.91448760032654,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.8491448760032654,
+                        "ocr_score": 0.865,
+                        "box": {
+                          "W": 204,
+                          "X": 367,
+                          "H": 27,
+                          "Y": 941
+                        },
+                        "text": "11/28/2023"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.8491448760032654,
+                        "ocr_score": 0.865,
+                        "box": {
+                          "W": 204,
+                          "X": 367,
+                          "H": 27,
+                          "Y": 941
+                        },
+                        "text": "11/28/2023"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "to_date",
+                "answer": [
+                  {
+                    "score": 0.8491448760032654,
+                    "ocr_score": 0.865,
+                    "box": {
+                      "W": 204,
+                      "X": 367,
+                      "H": 27,
+                      "Y": 941
+                    },
+                    "text": "11/28/2023"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.8491448760032654,
+                    "ocr_score": 0.865,
+                    "box": {
+                      "W": 204,
+                      "X": 367,
+                      "H": 27,
+                      "Y": 941
+                    },
+                    "text": "11/28/2023"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.908012",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.908009",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "total_cost",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.908021",
+                "ranswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": -1,
+                "document_name": "07252100.pdf",
+                "score": 0,
+                "candidates": [
+                  {
+                    "old_page": -1,
+                    "ranswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_on": "2024-02-07 10:49:17.908018",
+                    "score": 0,
+                    "para": -1,
+                    "answer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0,
+                        "ocr_score": 0,
+                        "box": {},
+                        "text": "NA"
+                      }
+                    ],
+                    "page": -1,
+                    "keyword": "NA",
+                    "policy": -1
+                  }
+                ],
+                "para": -1,
+                "field": "usage",
+                "answer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0,
+                    "ocr_score": 0,
+                    "box": {},
+                    "text": "NA"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": -1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.908041",
+                "ranswer": [
+                  {
+                    "score": 0.8813098073005676,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 70,
+                      "X": 1098,
+                      "H": 29,
+                      "Y": 274
+                    },
+                    "text": "4821"
+                  },
+                  {
+                    "score": 0.5036087036132812,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 165,
+                      "X": 1195,
+                      "H": 27,
+                      "Y": 276
+                    },
+                    "text": "BROADWAY"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 69.24592554569244,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908031",
+                    "ranswer": [
+                      {
+                        "score": 0.8813098073005676,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 70,
+                          "X": 1098,
+                          "H": 29,
+                          "Y": 274
+                        },
+                        "text": "4821"
+                      },
+                      {
+                        "score": 0.5036087036132812,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 165,
+                          "X": 1195,
+                          "H": 27,
+                          "Y": 276
+                        },
+                        "text": "BROADWAY"
+                      }
+                    ],
+                    "score": 69.24592554569244,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.8813098073005676,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 70,
+                          "X": 1098,
+                          "H": 29,
+                          "Y": 274
+                        },
+                        "text": "4821"
+                      },
+                      {
+                        "score": 0.5036087036132812,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 165,
+                          "X": 1195,
+                          "H": 27,
+                          "Y": 276
+                        },
+                        "text": "BROADWAY"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.8813098073005676,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 70,
+                          "X": 1098,
+                          "H": 29,
+                          "Y": 274
+                        },
+                        "text": "4821"
+                      },
+                      {
+                        "score": 0.5036087036132812,
+                        "ocr_score": 0.996,
+                        "box": {
+                          "W": 165,
+                          "X": 1195,
+                          "H": 27,
+                          "Y": 276
+                        },
+                        "text": "BROADWAY"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908034",
+                    "ranswer": [
+                      {
+                        "score": 0.5667092800140381,
+                        "ocr_score": 0.995,
+                        "box": {
+                          "W": 66,
+                          "X": 920,
+                          "H": 32,
+                          "Y": 472
+                        },
+                        "text": "6116"
+                      },
+                      {
+                        "score": 0.4194212555885315,
+                        "ocr_score": 0.993,
+                        "box": {
+                          "W": 146,
+                          "X": 993,
+                          "H": 32,
+                          "Y": 472
+                        },
+                        "text": "Broadway"
+                      }
+                    ],
+                    "score": 49.30652678012848,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.5667092800140381,
+                        "ocr_score": 0.995,
+                        "box": {
+                          "W": 66,
+                          "X": 920,
+                          "H": 32,
+                          "Y": 472
+                        },
+                        "text": "6116"
+                      },
+                      {
+                        "score": 0.4194212555885315,
+                        "ocr_score": 0.993,
+                        "box": {
+                          "W": 146,
+                          "X": 993,
+                          "H": 32,
+                          "Y": 472
+                        },
+                        "text": "Broadway"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.5667092800140381,
+                        "ocr_score": 0.995,
+                        "box": {
+                          "W": 66,
+                          "X": 920,
+                          "H": 32,
+                          "Y": 472
+                        },
+                        "text": "6116"
+                      },
+                      {
+                        "score": 0.4194212555885315,
+                        "ocr_score": 0.993,
+                        "box": {
+                          "W": 146,
+                          "X": 993,
+                          "H": 32,
+                          "Y": 472
+                        },
+                        "text": "Broadway"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908037",
+                    "ranswer": [
+                      {
+                        "score": 0.42256197333335876,
+                        "ocr_score": 0.955,
+                        "box": {
+                          "W": 75,
+                          "X": 746,
+                          "H": 27,
+                          "Y": 834
+                        },
+                        "text": "4821"
+                      }
+                    ],
+                    "score": 42.25619733333588,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.42256197333335876,
+                        "ocr_score": 0.955,
+                        "box": {
+                          "W": 75,
+                          "X": 746,
+                          "H": 27,
+                          "Y": 834
+                        },
+                        "text": "4821"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.42256197333335876,
+                        "ocr_score": 0.955,
+                        "box": {
+                          "W": 75,
+                          "X": 746,
+                          "H": 27,
+                          "Y": 834
+                        },
+                        "text": "4821"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "vendor_address",
+                "answer": [
+                  {
+                    "score": 0.8813098073005676,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 70,
+                      "X": 1098,
+                      "H": 29,
+                      "Y": 274
+                    },
+                    "text": "4821"
+                  },
+                  {
+                    "score": 0.5036087036132812,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 165,
+                      "X": 1195,
+                      "H": 27,
+                      "Y": 276
+                    },
+                    "text": "BROADWAY"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.8813098073005676,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 70,
+                      "X": 1098,
+                      "H": 29,
+                      "Y": 274
+                    },
+                    "text": "4821"
+                  },
+                  {
+                    "score": 0.5036087036132812,
+                    "ocr_score": 0.996,
+                    "box": {
+                      "W": 165,
+                      "X": 1195,
+                      "H": 27,
+                      "Y": 276
+                    },
+                    "text": "BROADWAY"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              },
+              {
+                "updated_on": "2024-02-07 10:49:17.908059",
+                "ranswer": [
+                  {
+                    "score": 0.9411614537239075,
+                    "ocr_score": 0.989,
+                    "box": {
+                      "W": 63,
+                      "X": 923,
+                      "H": 34,
+                      "Y": 433
+                    },
+                    "text": "City"
+                  },
+                  {
+                    "score": 0.9381952285766602,
+                    "ocr_score": 0.998,
+                    "box": {
+                      "W": 34,
+                      "X": 991,
+                      "H": 37,
+                      "Y": 430
+                    },
+                    "text": "of"
+                  },
+                  {
+                    "score": 0.47289738059043884,
+                    "ocr_score": 0.998,
+                    "box": {
+                      "W": 107,
+                      "X": 1032,
+                      "H": 37,
+                      "Y": 430
+                    },
+                    "text": "Alamo"
+                  },
+                  {
+                    "score": 0.5606024861335754,
+                    "ocr_score": 0.997,
+                    "box": {
+                      "W": 131,
+                      "X": 1146,
+                      "H": 39,
+                      "Y": 430
+                    },
+                    "text": "Heights"
+                  }
+                ],
+                "response_dtype": "ALPHA",
+                "batch_id": "",
+                "raw": "",
+                "document_id": "367d13faec5e4262b9b7e0b5478aaf3c",
+                "locale": "",
+                "old_page": 1,
+                "document_name": "07252100.pdf",
+                "score": 72.82141372561455,
+                "candidates": [
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908050",
+                    "ranswer": [
+                      {
+                        "score": 0.9411614537239075,
+                        "ocr_score": 0.989,
+                        "box": {
+                          "W": 63,
+                          "X": 923,
+                          "H": 34,
+                          "Y": 433
+                        },
+                        "text": "City"
+                      },
+                      {
+                        "score": 0.9381952285766602,
+                        "ocr_score": 0.998,
+                        "box": {
+                          "W": 34,
+                          "X": 991,
+                          "H": 37,
+                          "Y": 430
+                        },
+                        "text": "of"
+                      },
+                      {
+                        "score": 0.47289738059043884,
+                        "ocr_score": 0.998,
+                        "box": {
+                          "W": 107,
+                          "X": 1032,
+                          "H": 37,
+                          "Y": 430
+                        },
+                        "text": "Alamo"
+                      },
+                      {
+                        "score": 0.5606024861335754,
+                        "ocr_score": 0.997,
+                        "box": {
+                          "W": 131,
+                          "X": 1146,
+                          "H": 39,
+                          "Y": 430
+                        },
+                        "text": "Heights"
+                      }
+                    ],
+                    "score": 72.82141372561455,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.9411614537239075,
+                        "ocr_score": 0.989,
+                        "box": {
+                          "W": 63,
+                          "X": 923,
+                          "H": 34,
+                          "Y": 433
+                        },
+                        "text": "City"
+                      },
+                      {
+                        "score": 0.9381952285766602,
+                        "ocr_score": 0.998,
+                        "box": {
+                          "W": 34,
+                          "X": 991,
+                          "H": 37,
+                          "Y": 430
+                        },
+                        "text": "of"
+                      },
+                      {
+                        "score": 0.47289738059043884,
+                        "ocr_score": 0.998,
+                        "box": {
+                          "W": 107,
+                          "X": 1032,
+                          "H": 37,
+                          "Y": 430
+                        },
+                        "text": "Alamo"
+                      },
+                      {
+                        "score": 0.5606024861335754,
+                        "ocr_score": 0.997,
+                        "box": {
+                          "W": 131,
+                          "X": 1146,
+                          "H": 39,
+                          "Y": 430
+                        },
+                        "text": "Heights"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.9411614537239075,
+                        "ocr_score": 0.989,
+                        "box": {
+                          "W": 63,
+                          "X": 923,
+                          "H": 34,
+                          "Y": 433
+                        },
+                        "text": "City"
+                      },
+                      {
+                        "score": 0.9381952285766602,
+                        "ocr_score": 0.998,
+                        "box": {
+                          "W": 34,
+                          "X": 991,
+                          "H": 37,
+                          "Y": 430
+                        },
+                        "text": "of"
+                      },
+                      {
+                        "score": 0.47289738059043884,
+                        "ocr_score": 0.998,
+                        "box": {
+                          "W": 107,
+                          "X": 1032,
+                          "H": 37,
+                          "Y": 430
+                        },
+                        "text": "Alamo"
+                      },
+                      {
+                        "score": 0.5606024861335754,
+                        "ocr_score": 0.997,
+                        "box": {
+                          "W": 131,
+                          "X": 1146,
+                          "H": 39,
+                          "Y": 430
+                        },
+                        "text": "Heights"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908053",
+                    "ranswer": [
+                      {
+                        "score": 0.5804152488708496,
+                        "ocr_score": 0.993,
+                        "box": {
+                          "W": 32,
+                          "X": 78,
+                          "H": 29,
+                          "Y": 2156
+                        },
+                        "text": "of"
+                      }
+                    ],
+                    "score": 58.04152488708496,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.5804152488708496,
+                        "ocr_score": 0.993,
+                        "box": {
+                          "W": 32,
+                          "X": 78,
+                          "H": 29,
+                          "Y": 2156
+                        },
+                        "text": "of"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.5804152488708496,
+                        "ocr_score": 0.993,
+                        "box": {
+                          "W": 32,
+                          "X": 78,
+                          "H": 29,
+                          "Y": 2156
+                        },
+                        "text": "of"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  },
+                  {
+                    "old_page": 1,
+                    "updated_on": "2024-02-07 10:49:17.908055",
+                    "ranswer": [
+                      {
+                        "score": 0.5500033497810364,
+                        "ocr_score": 0.989,
+                        "box": {
+                          "W": 100,
+                          "X": 287,
+                          "H": 56,
+                          "Y": 54
+                        },
+                        "text": "City"
+                      }
+                    ],
+                    "score": 55.00033497810364,
+                    "para": 1,
+                    "answer": [
+                      {
+                        "score": 0.5500033497810364,
+                        "ocr_score": 0.989,
+                        "box": {
+                          "W": 100,
+                          "X": 287,
+                          "H": 56,
+                          "Y": 54
+                        },
+                        "text": "City"
+                      }
+                    ],
+                    "updated_by": "smartextract",
+                    "raw": "",
+                    "manswer": [
+                      {
+                        "score": 0.5500033497810364,
+                        "ocr_score": 0.989,
+                        "box": {
+                          "W": 100,
+                          "X": 287,
+                          "H": 56,
+                          "Y": 54
+                        },
+                        "text": "City"
+                      }
+                    ],
+                    "page": 1,
+                    "keyword": "NA",
+                    "policy": 1
+                  }
+                ],
+                "para": 1,
+                "field": "vendor_name",
+                "answer": [
+                  {
+                    "score": 0.9411614537239075,
+                    "ocr_score": 0.989,
+                    "box": {
+                      "W": 63,
+                      "X": 923,
+                      "H": 34,
+                      "Y": 433
+                    },
+                    "text": "City"
+                  },
+                  {
+                    "score": 0.9381952285766602,
+                    "ocr_score": 0.998,
+                    "box": {
+                      "W": 34,
+                      "X": 991,
+                      "H": 37,
+                      "Y": 430
+                    },
+                    "text": "of"
+                  },
+                  {
+                    "score": 0.47289738059043884,
+                    "ocr_score": 0.998,
+                    "box": {
+                      "W": 107,
+                      "X": 1032,
+                      "H": 37,
+                      "Y": 430
+                    },
+                    "text": "Alamo"
+                  },
+                  {
+                    "score": 0.5606024861335754,
+                    "ocr_score": 0.997,
+                    "box": {
+                      "W": 131,
+                      "X": 1146,
+                      "H": 39,
+                      "Y": 430
+                    },
+                    "text": "Heights"
+                  }
+                ],
+                "domain": "",
+                "updated_by": "smartextract",
+                "manswer": [
+                  {
+                    "score": 0.9411614537239075,
+                    "ocr_score": 0.989,
+                    "box": {
+                      "W": 63,
+                      "X": 923,
+                      "H": 34,
+                      "Y": 433
+                    },
+                    "text": "City"
+                  },
+                  {
+                    "score": 0.9381952285766602,
+                    "ocr_score": 0.998,
+                    "box": {
+                      "W": 34,
+                      "X": 991,
+                      "H": 37,
+                      "Y": 430
+                    },
+                    "text": "of"
+                  },
+                  {
+                    "score": 0.47289738059043884,
+                    "ocr_score": 0.998,
+                    "box": {
+                      "W": 107,
+                      "X": 1032,
+                      "H": 37,
+                      "Y": 430
+                    },
+                    "text": "Alamo"
+                  },
+                  {
+                    "score": 0.5606024861335754,
+                    "ocr_score": 0.997,
+                    "box": {
+                      "W": 131,
+                      "X": 1146,
+                      "H": 39,
+                      "Y": 430
+                    },
+                    "text": "Heights"
+                  }
+                ],
+                "page": 1,
+                "keyword": "NA",
+                "field_type": "FOI",
+                "policy": 1,
+                "document_type": ""
+              }
+            ],
+            "created_date": "2024-02-07T10:49:17.676718"
+          }
+        }
+      ]
+    }
+  }
